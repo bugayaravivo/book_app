@@ -1,6 +1,6 @@
 require "test_helper"
 
-class TopControllerTest < ActionDispatch::IntegrationTest
+class BookTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
